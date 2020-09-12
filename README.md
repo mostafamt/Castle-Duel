@@ -13,3 +13,7 @@ It's implemented from Vue.js 2 Web Development Projects Book.
 Just download and run index.html .
 
 ## Screenshots
+![](https://github.com/mostafamt/Castle-Duel/blob/master/sc%20img/Screenshot1.png)
+![](https://github.com/mostafamt/Castle-Duel/blob/master/sc%20img/Screenshot2.png)
+![](https://github.com/mostafamt/Castle-Duel/blob/master/sc%20img/Screenshot3.png)
+![](https://github.com/mostafamt/Castle-Duel/blob/master/sc%20img/Screenshot4.png)
